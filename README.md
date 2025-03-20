@@ -5,7 +5,7 @@ Enhancing Bone Fracture Detection: Implementing Transfer Learning and Adversaria
 ## Prerequisites
 Before running this project, ensure you have:
 - Python 3.8 or higher → [Download Python](https://www.python.org/downloads/)
-- The required dependencies (listed in `requirements.txt`)
+
 
 Make sure you have Python installed on your system.
 Install all the required libraries 
